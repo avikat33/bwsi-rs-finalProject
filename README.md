@@ -3,6 +3,11 @@
 Starter resources for students
 
 # bwsi-rs-finalProject 
+
+Google Doc with responsibilities : https://docs.google.com/document/d/15JU8v1LRuyBc-AGVk0grp5lKXXk-uK2KHfd3BwOfrf4/edit?usp=sharing
+All data was retrived from : Index of /data/final_2024 (bwsi-remote-sensing.net)
+
+
 # Planning Team(my team) 
 Index of /data/final_2024 (bwsi-remote-sensing.net)
 # Planning Team
