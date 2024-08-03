@@ -5,7 +5,7 @@ Starter resources for students
 # bwsi-rs-finalProject 
 # Planning Team(my team) 
 Index of /data/final_2024 (bwsi-remote-sensing.net)
-#Planning Team
+# Planning Team
 
 The planning team is responsible for creating data products to visualize and prepare for the oncoming storm. This team will work with GIS and remote sensing. You will need to use the various tools we have learned to use this class in order to perform these tasks
  
@@ -51,7 +51,7 @@ Mapped
 Using remote sensing (Landsat or Sentinel 2) and Digital Elevation Maps, identify regions at risk of inland flooding by computing a soil moisture index
 Areas with higher soil moisture are at higher risk of flooding during heavy rains, since there is already a lot of water in the ground
 
-#Logistics Team
+# Logistics Team
 The Logistics Team is responsible for moving resources to the locations that require them. This team will work with network optimization, routing, and GIS
 You will receive a game grid with transportation scores for each cell
 Convert Game Grid into routing network (provided)
@@ -74,7 +74,7 @@ Visualize the routes that your trucks are taking
 This is an example of the vehicle routing problem, which is a generalization of the TSP
 Notably, this is an example of a capacitated vehicle routing problem, since the vehicles can only carry a finite amount of resources
 
-#Operations Team
+# Operations Team
 The Operations Team is responsible for providing situational awareness. This team will complete computer vision tasks using SfM and deep learning.
 Build and train classifiers to identify damage types, some type of infrastructure (buildings, roads)
 Use your classifier to identify images of damage, infrastructure, and others that were not in your training dataset 
@@ -87,7 +87,7 @@ Create a small-scale representation of hurricane damage using craft materials, t
 Use structure from motion to create a 3D representation of the scene
 You may use OpenSfM or any other tool to generate the data/visualize
 
-#Public Information Team
+# Public Information Team
 The public information team is responsible for interacting with the press. They will periodically update the press via press conferences with the teams’ progress in dealing with the hurricane— especially as the hurricane progresses. 
 Inform the press of most affected regions (with planning team)
 What regions did planning think to be most affected (at greatest risk), what action was taken
